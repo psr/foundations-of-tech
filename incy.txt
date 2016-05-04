@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -7,10 +8,28 @@ Then Incy Wincy Spider climbed up the spout again
 KILL THE SPIDER!!!
 =======
 Incy Wincy Spider bounced up the water spout
+=======
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again.
+The incy Wincy spider got crushed under gemma collins left buttock,
+splat went the incy wincy spider and out went his sandra bullock,
+down rolled the sandra bullock to never be seen again.
+
+Incy Wincy Spider became the walking dead and bounced up the water spout
+>>>>>>> 1484a242c53de411121ca105700547bb917b6d1b
 Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
 Then Incy Wincy Spider bounced up the spout again
 
+
 The Incy Wincy Spider, crippled by repetitive strain injuries resulting from the constant flushing, eventually succumbed
+<<<<<<< HEAD
 to the heavy water flow. He leaves behind a wife and a large brood of depressed spiderlings
 >>>>>>> refs/remotes/origin/master
+=======
+to the heavy water flow. He leaves behind a wife and a large brood of depressed spiderlings.
+Those spiderlings rise up and form a spiderling army against the ant clan.
+
+>>>>>>> 1484a242c53de411121ca105700547bb917b6d1b
