@@ -1,4 +1,5 @@
 ﻿<<<<<<< HEAD
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 DIE ALL DIE!!!!!!!!
@@ -22,14 +23,20 @@ Incy Wincy Spider bounced up the water spout
 Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
 Then Incy Wincy Spider bounced up the spout again
+=======
+﻿sss
+=======
+﻿chris
+>>>>>>> 176b7bcd34cb329d7ec5517cd767157cc04c4838
 
-The Incy Wincy Spider, crippled by repetitive strain injuries resulting from the constant flushing, eventually succumbed
-to the heavy water flow. He leaves behind a wife and a large brood of depressed spiderlings
 
+RyanSpider climed up the water spout
+Down came the rain and washed the spider out
+NANANAN
 
-The spider decided to take a nice little hoiday. Lovely jubly.Juliet is helpful!
+DIE ALL DIE!!!!!!!!
 
-
+<<<<<<< HEAD
 <<<<<<< HEAD
 hello
 >>>>>>> 9da0226419ad3a65cd4c92cd66164c979109df60
@@ -38,3 +45,5 @@ hello, is it me youre looking for??
 >>>>>>> 35674b98c8049783b00bd39a63e55743046ee3d9
 
 :)
+=======
+>>>>>>> 176b7bcd34cb329d7ec5517cd767157cc04c4838
