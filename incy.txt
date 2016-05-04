@@ -1,3 +1,11 @@
+﻿<<<<<<< HEAD
 DIE ALL DIE!!!!!!!!
 
 Sorry all, i apologise for my comments
+=======
+﻿﻿jordan open the image
+
+
+
+hello
+>>>>>>> 9da0226419ad3a65cd4c92cd66164c979109df60
