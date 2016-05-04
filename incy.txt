@@ -1,6 +1,11 @@
+﻿﻿jordan open the image
 
+
+<<<<<<< HEAD
 Wee Wincy Spiderman climed up the brussel sprout
 Down came the rain and washed the spiders snout
 Out came the sun and dried up all the drain
 Then Incy Wincy Spider climbed up the spout to Spain
+=======
+>>>>>>> fa57d7071989b324f42a1f5f91f00a87c33c8d4e
 
