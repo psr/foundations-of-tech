@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿uydo
 ﻿
 Incy Wincy Spider bounced up the water spout
@@ -9,3 +10,6 @@ Then Incy Wincy Spider bounced up the spout again
 DIE ALL DIE!!!!!!!!
 
 qwefefqf
+=======
+﻿IM LAURENCE
+>>>>>>> 6a0da16d6cb6b5f218431c8ec0c7fe3fb08a604a
