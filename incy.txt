@@ -1,4 +1,29 @@
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water shouting the odds 
 Down came the pain and smashed the spider out 
 Pout came the sun and dried up all the rain
 Then Incy Wincy Spider  up the spout again and again and AGAIN!!
+=======
+<<<<<<< HEAD
+Incy Wincy Spider crawled up the spout of the drain
+Suddenly he was pushed down by all of the rain
+The spider was hurt from being drowned in all of the rain
+Then Incy Wincy Spider never crawled up the spout again
+=======
+<<<<<<< HEAD
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+A-men
+=======
+The itsy bitsy spider climbed up the waterspout.
+Down came the rain
+and washed the spider out.
+Out came the sun
+and dried up all the rain
+and the itsy bitsy spider climbed up the spout again
+A men
+>>>>>>> 2441fdece710ebe1f46491f1538c687e65baa9cf
+>>>>>>> baa88f79b6d1e3a5b6543b5a69bea70746e11b60
+>>>>>>> b6ffa05b8c8d446ee8281fc5dce1a7c4bedf4750
