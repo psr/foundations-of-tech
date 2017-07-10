@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout,
 Down came the rain and washed the spider out.
 Out came the sun and dried up all the rain,
@@ -9,6 +10,9 @@ There should be a moral to this story, but he passed before he could relay it to
 I like to think it goes a little something like this:
 "When you climb up water spouts, always check the forcast.
 It's awfully embarrasing being washed out ifront of your friends."
+=======
+
+>>>>>>> 39b79fcce9ee7ac03ba002f66b54149a394aa3b4
 =======
 <<<<<<< HEAD
 Incy Wincy Spider climed up the water shouting the odds 
@@ -23,22 +27,39 @@ The spider was hurt from being drowned in all of the rain
 Then Incy Wincy Spider never crawled up the spout again
 =======
 <<<<<<< HEAD
+>>>>>>> 9ca74d03ca005100d7ef3779b23604c3e28f94ce
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 A-men
+<<<<<<< HEAD
+
+=======
 Humpty Dumpty sat on a wall,
 Humpty Dumpty had a great fall;
 All the king's horses and all the king's men
 Couldn't put Humpty together again.
 =======
+>>>>>>> 9ca74d03ca005100d7ef3779b23604c3e28f94ce
 The itsy bitsy spider climbed up the waterspout.
 Down came the rain
 and washed the spider out.
 Out came the sun
 and dried up all the rain
 and the itsy bitsy spider climbed up the spout again
+<<<<<<< HEAD
+
+
+Doctor Foster poem
+
+Doctor Foster
+Went to Gloucester
+In a shower of rain. 
+He stepped in a puddle
+Right up to his middle
+And never went there again!
+=======
 A men
 Humpty Dumpty sat on a wall,
 Humpty Dumpty had a great fall;
