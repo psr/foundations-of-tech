@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 A-men
+=======
+The itsy bitsy spider climbed up the waterspout.
+Down came the rain
+and washed the spider out.
+Out came the sun
+and dried up all the rain
+and the itsy bitsy spider climbed up the spout again
+A men
+>>>>>>> 2441fdece710ebe1f46491f1538c687e65baa9cf
