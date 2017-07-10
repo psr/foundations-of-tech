@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+It was the best of times,
+It was the worst of times.
+Incy Wincy Spider climbed up the water spout
+=======
+<<<<<<< HEAD
+Incy Wincy Spider climed up the water spout
+>>>>>>> baa88f79b6d1e3a5b6543b5a69bea70746e11b60
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+A-men
+=======
+The itsy bitsy spider climbed up the waterspout.
+Down came the rain
+and washed the spider out.
+Out came the sun
+and dried up all the rain
+and the itsy bitsy spider climbed up the spout again
+A men
+>>>>>>> 2441fdece710ebe1f46491f1538c687e65baa9cf
