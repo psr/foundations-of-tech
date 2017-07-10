@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ======= GUys We are so gud at this!!!
 HACK HACK HACK HACK HACK <<<<<< HEAD
@@ -25,30 +26,14 @@ There was an old woman who lived in a shoe,
 She had so many children she didn't know what to do!
 So she gave them some broth without any bread,
 And she whipped them all soundly and sent them to bed!
-
-
-A million stars up in the sky
-one shines brighter I can't deny
-A love so precious a love so true
-a love that comes from me to you
 =======
-A-men
-<<<<<<< HEAD
+>>>>>>> c204a6bdbc3558b39cbddf051a73f17a09fdb279
 
-=======
-Humpty Dumpty sat on a wall,
-Humpty Dumpty had a great fall;
-All the king's horses and all the king's men
-Couldn't put Humpty together again.
-=======
->>>>>>> 9ca74d03ca005100d7ef3779b23604c3e28f94ce
-The itsy bitsy spider climbed up the waterspout.
-Down came the rain
-and washed the spider out.
-Out came the sun
-and dried up all the rain
-and the itsy bitsy spider climbed up the spout again
-<<<<<<< HEAD
+Incy Wincy Spider climed up the water shouting the odds,
+Down came the pain and smashed the spider out,
+The spider was hurt from being drowned in all of the rain,
+
+Then Incy Wincy Spider  up the spout again and again and AGAIN!!
 
 
 Doctor Foster poem
@@ -59,16 +44,3 @@ In a shower of rain.
 He stepped in a puddle
 Right up to his middle
 And never went there again!
-=======
-A men
-Humpty Dumpty sat on a wall,
-Humpty Dumpty had a great fall;
-All the king's horses and all the king's men
-Couldn't put Humpty together again.
->>>>>>> 2441fdece710ebe1f46491f1538c687e65baa9cf
->>>>>>> baa88f79b6d1e3a5b6543b5a69bea70746e11b60
->>>>>>> b6ffa05b8c8d446ee8281fc5dce1a7c4bedf4750
-<<<<<<< HEAD
-=======
->>>>>>> 9ca74d03ca005100d7ef3779b23604c3e28f94ce
->>>>>>> 39b79fcce9ee7ac03ba002f66b54149a394aa3b4
