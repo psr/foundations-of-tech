@@ -7,6 +7,11 @@ Out came the sun and dried up all the rain
 Then Incy Wincy Spider never came out because it's dead
 =======
 Then Incy Wincy Spider climbed up the spout again
+<<<<<<< HEAD
+<<<<<<< HEAD
+The Incy Wincy Spider Climbed down the spout again....
+=======
+=======
 Incy Wincy Spider drowned
 =======
 Incy Wincy Spider climed up the water spout
@@ -17,6 +22,7 @@ A spectre is haunting Europe - the spectre of communism.
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
+>>>>>>> 950fba1ab3f74fcb840bc2ec966c2f5ac8c775bc
 Then the spider said:
 u wan sum? I'll give it ya
 <<<<<<< HEAD
@@ -25,6 +31,11 @@ u wan sum? I'll give it ya
 Incy died
 =======
 Tabby is the best
+<<<<<<< HEAD
+>>>>>>> 602913213e51a5803891592166f51b3cfe96c2c6
+jsfdabcoiwed sc iodmcoiwdwcnoinsdk zds odsi[ancosd vfidjs h\d 14:16 15/12/2017
+adsncjadfnvckmkpfdmskcmapdms;cl S;slcmpdmaskmcpdm mmmmmeow 
+=======
 >>>>>>> c2694e7193802f2c2e52e929e510b590baf8d80a
 
 Incy died of communism
