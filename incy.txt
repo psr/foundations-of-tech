@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Incy Wincy Spider climbed up the water spout
+=======
 
 ban spiders pls
 
@@ -10,6 +13,7 @@ Skeletor woz ere
 
 
 Incy Wincy Spider climed up the water spout
+>>>>>>> 62f49719180671c06cd0af2411ff8c280d297bd2
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
@@ -105,3 +109,9 @@ Incy was actually a cat
 
 evil spider
 roberta hates spiders as well
+<<<<<<< HEAD
+=======
+>>>>>>> 48a4ebc05452ed62f2308d242e076e9be35462f0
+
+Sinister Incy 
+>>>>>>> b94c30c99ca8106c2e5dc20b38fb9b87128bee6e
