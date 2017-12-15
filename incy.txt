@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Incy Wincy Spider climbed up the water spout
+=======
 
 ban spiders pls
 
@@ -10,6 +13,7 @@ Skeletor woz ere
 
 
 Incy Wincy Spider climed up the water spout
+>>>>>>> 62f49719180671c06cd0af2411ff8c280d297bd2
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
