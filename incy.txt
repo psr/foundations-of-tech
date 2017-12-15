@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 Incy Wincy Spider drowned
+=======
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+Then the spider said:
+u wan sum? I'll give it ya
+>>>>>>> 4214bd582abe412a1802d2ef19069b730f50e482
+
+Incy died
