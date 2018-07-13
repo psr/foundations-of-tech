@@ -1,3 +1,7 @@
+WWHHHHHHHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+
+
+
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -57,13 +61,22 @@ Spiders are awful
 
 Spiders are gross
 
+<<<<<<< HEAD
+Spiders are jokes guys, all about tranchulars, if thats a correct spelling for it!
+=======
 I'm glad we all agree
 >>>>>>> 151ecf70a903cec76aeb6499a333ab8e9fc1d9c8
 =======
 done
 >>>>>>> 00191ed4a5162aca1c6deb5fcfca648740b0614b
 >>>>>>> 6eff591f714ba5ee4e8ac99363ba1cf46470c456
+<<<<<<< HEAD
+=======
 =======
 Starting this again... no more spiders I'm sorry :'( 
 >>>>>>> 77a63c6aff402ea4c684d9d817bc3ce89b9ae971
 >>>>>>> bec45e8bc5bbf4c4d021690827f0d8fbf0d867ec
+<<<<<<< HEAD
+=======
+shall we play football?
+>>>>>>> 87ccabbdf5cb6f65322a1893c1a62af72389f951
