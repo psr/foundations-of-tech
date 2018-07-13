@@ -1,6 +1,1 @@
-Incy Wincy Spider climed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-
-Hi everyone. It ain't coming home.
+WHAT ARE THOSE!!!!
