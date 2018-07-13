@@ -1,10 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 WWHHHHHHHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+=======
+>>>>>>> 749813545b8096bf239e844d6013570e40faa487
+
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 
-
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 dones
@@ -14,10 +21,15 @@ dones
 <<<<<<< HEAD
 <<<<<<< HEAD
 WHO DID THIS WHAT
+>>>>>>> bec45e8bc5bbf4c4d021690827f0d8fbf0d867ec
 
 Incy Wincy Spider climed up the water spout...
 Down came the rain and washed the spider out...
 Out came the sun and dried up all the rain...
+<<<<<<< HEAD
+Then Incy Wincy Spider climbed up the spout again...
+Rah (if)
+=======
 Then Incy Wincy Spider climbed up the spout again...walk in wardrobe
 =======
 <<<<<<< HEAD
@@ -25,9 +37,8 @@ Incy Wincy Spider climed up the water spout...
 Down came the rain and washed the spider out...
 Out came the sun and dried up all the rain...
 Then Incy Wincy Spider climbed up the spout again...
-Rah 
->>>>>>> 16dc975079b5a281691b9414ac2baed107757971
 =======
+<<<<<<< HEAD
 >>>>>>> 87ccabbdf5cb6f65322a1893c1a62af72389f951
 Incy Wincy Spider climed up the water spout...
 Down came the rain and washed the spider out...
@@ -43,11 +54,21 @@ Then Incy Wincy Spider climbed up the spout again...
 yuuuuuuuuuuuuup
 ONE LAST TIME
 =======
-Then Itsy Bitsy Spider climbed up the spout again...climbed into the Walk-in Wardrobe...Raaaah
->>>>>>> 2d1baac73a37b067ece3861ccd1ec4e1a6f01553
->>>>>>> 16dc975079b5a281691b9414ac2baed107757971
-mashed potatos with gravy
 =======
+>>>>>>> 808d5fb1f416439061a4cd90f22933e740621a76
+Rah 
+
+
+yuuuuuuuuuuuuup
+
+Itsy Bitsy Spider climed up the water spout...
+Down came the rain and washed the spider out...
+Out came the sun and dried up all the rain...
+>>>>>>> 749813545b8096bf239e844d6013570e40faa487
+Then Itsy Bitsy Spider climbed up the spout again...climbed into the Walk-in Wardrobe...Raaaah
+
+mashed potatos with gravy
+
 Itsy Bitsy Spider climed up the water spout...
 Down came the rain and washed the spider out...
 Out came the sun and dried up all the rain...
@@ -59,22 +80,44 @@ Spiders are awful
 
 Spiders are gross
 
-<<<<<<< HEAD
-Spiders are jokes guys, all about tranchulars, if thats a correct spelling for it!
-=======
+Spiders are awful stop merging 
+
 I'm glad we all agree
->>>>>>> 151ecf70a903cec76aeb6499a333ab8e9fc1d9c8
-=======
+
 done
->>>>>>> 00191ed4a5162aca1c6deb5fcfca648740b0614b
->>>>>>> 6eff591f714ba5ee4e8ac99363ba1cf46470c456
+
+Starting this again... no more spiders I'm sorry :'( 
+
+Humptry dumpty sat on a wall....
 <<<<<<< HEAD
+
 =======
+<<<<<<< HEAD
+humptry is an egg isnt he?
 =======
+<<<<<<< HEAD
 Starting this again... no more spiders I'm sorry :'( 
 >>>>>>> 77a63c6aff402ea4c684d9d817bc3ce89b9ae971
 >>>>>>> bec45e8bc5bbf4c4d021690827f0d8fbf0d867ec
+<<<<<<< HEAD
 shall we play football?
 >>>>>>> 87ccabbdf5cb6f65322a1893c1a62af72389f951
 
 yooooo
+=======
+<<<<<<< HEAD
+=======
+shall we play football?
+>>>>>>> 87ccabbdf5cb6f65322a1893c1a62af72389f951
+=======
+>>>>>>> 828df58dd408ed21054434315fc16e7718925c40
+>>>>>>> fb3df9fac1dfbaf27ed00b85e29d562e655ac832
+>>>>>>> 74bfd399f1bdab3319c93390955d1cdd2a14a411
+>>>>>>> 808d5fb1f416439061a4cd90f22933e740621a76
+=======
+humptry is an egg isnt he?
+>>>>>>> fb3df9fac1dfbaf27ed00b85e29d562e655ac832
+>>>>>>> 74bfd399f1bdab3319c93390955d1cdd2a14a411
+>>>>>>> b701531d783878ce9286f03b5ddf22a1f11df5b4
+>>>>>>> cba04d2717d726906658f0962d2c83caf395e7b6
+>>>>>>> 749813545b8096bf239e844d6013570e40faa487
