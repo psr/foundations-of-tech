@@ -53,6 +53,9 @@ done
 Starting this again... no more spiders I'm sorry :'( 
 
 Humptry dumpty sat on a wall....
+
+
+Everyone just stop for a minute so i can merge something
 <<<<<<< HEAD
 
 =======
