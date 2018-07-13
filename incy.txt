@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WWHHHHHHHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 
 Adding something
@@ -118,3 +119,6 @@ done
 Starting this again... no more spiders I'm sorry :'( 
 >>>>>>> 77a63c6aff402ea4c684d9d817bc3ce89b9ae971
 >>>>>>> ae04572400a0c1be81175b971bf2f787e29b7d32
+=======
+Humptry dumpty sat on a wall....
+>>>>>>> 828df58dd408ed21054434315fc16e7718925c40
