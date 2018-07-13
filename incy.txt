@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -50,3 +51,11 @@ Then Itsy Bitsy Spider climbed up the spout again...climbed into the Walk-in War
 >>>>>>> 2d1baac73a37b067ece3861ccd1ec4e1a6f01553
 >>>>>>> 16dc975079b5a281691b9414ac2baed107757971
 >>>>>>> e7a20dfee82a16babc89f775a905ca5f83eca47a
+=======
+Itsy Bitsy Spider climed up the water spout...
+Down came the rain and washed the spider out...
+Out came the sun and dried up all the rain...
+Then Itsy Bitsy Spider climbed up the spout again...Raaaah
+
+Spiders are awful stop merging 
+>>>>>>> 8013a57a739d9def641765ecf7d75e0f1544e7e1
