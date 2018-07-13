@@ -31,4 +31,12 @@ done
 Starting this again... no more spiders I'm sorry :'( 
 
 Humptry dumpty sat on a wall....
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+humptry is an egg isnt he?
+=======
+>>>>>>> 828df58dd408ed21054434315fc16e7718925c40
+>>>>>>> fb3df9fac1dfbaf27ed00b85e29d562e655ac832
+>>>>>>> 74bfd399f1bdab3319c93390955d1cdd2a14a411
