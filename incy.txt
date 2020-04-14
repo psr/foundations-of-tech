@@ -1,3 +1,13 @@
+Incy Wincy Spider climbed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+
+Then the rain came back
+as Mr Spider's thread went slack
+What is a spider to do?
+Honestly, I haven't a clue 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5,6 +15,32 @@ Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
+=======
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+
+
+
+
+
+
+
+
+
+creep mouse creep mouse
+up to the knee
+creep a little further
+wee wee wee wee wee
+=======
+Incy Wincy Spider climbed up the water spout,
+Down came the rain and washed the spider out,
+Out came the sunshine and dried up all the rain,
+Then Incy Wincy Spider climbed up the spout again!
+>>>>>>> b89af9424c696cd429507125c07d556d7b90a496
+=======
+>>>>>>> a0fbcb8a97459228271eccfcb0b0ce08ef5460a0
 
 But once again, the rain returned
 And Mr Spiders world was upturned
@@ -13,6 +49,7 @@ Hopefully round the next bend.
 =======
 <<<<<<< HEAD
 HELLO 
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -52,4 +89,6 @@ Then Incy Wincy Spider climbed up the spout again!
 =======
 
 HELLO 
+=======
+>>>>>>> a0fbcb8a97459228271eccfcb0b0ce08ef5460a0
 >>>>>>> 1d56312b09cc6b682b54fbf2d7747d7053316142
