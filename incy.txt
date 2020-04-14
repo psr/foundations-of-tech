@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Incy Wincy Spider climbed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-
-Then the rain came back
-as Mr Spider's thread went slack
-What is a spider to do?
-Honestly, I haven't a clue 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Incy Wincy Spider climbed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-=======
-=======
->>>>>>> 80437d3c611894b485033d9e84079fd39244563d
-=======
-
-HELLO
-=======
->>>>>>> 9f293d921cbbf5e6bf5b8d5d92ed82ffb32d51f0
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -33,69 +6,7 @@ creep mouse creep mouse
 up to the knee
 creep a little further
 wee wee wee wee wee
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Incy Wincy Spider climbed up the water spout,
-Down came the rain and washed the spider out,
-Out came the sunshine and dried up all the rain,
-Then Incy Wincy Spider climbed up the spout again!
->>>>>>> b89af9424c696cd429507125c07d556d7b90a496
-=======
->>>>>>> a0fbcb8a97459228271eccfcb0b0ce08ef5460a0
-
 But once again, the rain returned
 And Mr Spiders world was upturned
 When will it end?
 Hopefully round the next bend.
-=======
-<<<<<<< HEAD
-HELLO 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Spiderman Spiderman does whatever a spider can
-spins a web any size, catches thieves just like flies
-Look out, here comes the Spiderman
-Is he strong listen bud, He's got radioactive blood
-Can he swing from a thread? Take a look overhead
-Hey,there! There goes the Spiderman
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 09f6f966326da2ed29c3e0337dc05a141815ff3e
-Incy Wincy Spider climed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-gfregrew
-<<<<<<< HEAD
-=======
-Incy Wincy Spider bounced up the water spout
-Down came the rain and spat the spider out
-Out came the sunshine and dried up all the rain
-Then Incy Wincy Spider bounced up the spout again
->>>>>>> 2f8c197c09accc5e96d486219c8632ff8fb1fb2e
->>>>>>> 12fd262f7a55816ffd5d162337b5bb15d5599f14
-=======
->>>>>>> 09f6f966326da2ed29c3e0337dc05a141815ff3e
->>>>>>> d107c68765f189e77ae26f8e47fee79a8d7005d4
->>>>>>> c1f4c9b9f38deadca4e40f9f94bf23f51891483b
-=======
-Incy Wincy Spider climbed up the water spout,
-Down came the rain and washed the spider out,
-Out came the sunshine and dried up all the rain,
-Then Incy Wincy Spider climbed up the spout again!
->>>>>>> b89af9424c696cd429507125c07d556d7b90a496
-=======
-
-HELLO 
-=======
->>>>>>> a0fbcb8a97459228271eccfcb0b0ce08ef5460a0
->>>>>>> 1d56312b09cc6b682b54fbf2d7747d7053316142
-=======
-=======
->>>>>>> 9f293d921cbbf5e6bf5b8d5d92ed82ffb32d51f0
-HELLO
->>>>>>> 80437d3c611894b485033d9e84079fd39244563d
