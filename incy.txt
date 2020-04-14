@@ -1,27 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Spiderman Spiderman does whatever a spider can
 spins a web any size, catches thieves just like flies
 Look out, here comes the Spiderman
 Is he strong listen bud, He's got radioactive blood
 Can he swing from a thread? Take a look overhead
 Hey,there! There goes the Spiderman
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 09f6f966326da2ed29c3e0337dc05a141815ff3e
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
-gfregrew
-<<<<<<< HEAD
-=======
 Incy Wincy Spider bounced up the water spout
 Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
 Then Incy Wincy Spider bounced up the spout again
->>>>>>> 2f8c197c09accc5e96d486219c8632ff8fb1fb2e
->>>>>>> 12fd262f7a55816ffd5d162337b5bb15d5599f14
-=======
->>>>>>> 09f6f966326da2ed29c3e0337dc05a141815ff3e
+
