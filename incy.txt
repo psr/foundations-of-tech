@@ -121,7 +121,6 @@ HELLO
 
 
 
-
 bah bah black sheep
 
 >>>>>>> 8721a5b789a6e9be46edab9a1a6dacbb130900b9
@@ -178,10 +177,10 @@ IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
 >>>>>>> 2c2c66aa4cef38d0fb3d418da0d0dc385c35b5b8
 =======
 
-Incy Wincy Spider climed up the water spout
+Teenie Weenie Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
+Then Teenie Weenie Spider climbed up the spout again
 gfregrew
 
 
