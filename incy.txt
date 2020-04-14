@@ -1,17 +1,34 @@
+Spiderman Spiderman does whatever a spider can
+spins a web any size, catches thieves just like flies
+Look out, here comes the Spiderman
+Is he strong listen bud, He's got radioactive blood
+Can he swing from a thread? Take a look overhead
+Hey,there! There goes the Spiderman
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+Incy Wincy Spider bounced up the water spout
+Down came the rain and spat the spider out
+Out came the sunshine and dried up all the rain
+Then Incy Wincy Spider bounced up the spout again
+HELLO 
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy wincy spider climbed up the tree
 Down came the tree and crushed the spider flat
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 8721a5b789a6e9be46edab9a1a6dacbb130900b9
 Incy Wincy Spider went up the water spout
 He went to https://open.spotify.com/artist/7fJOLOLjMxFn0Rft2qFoKX and checked the music out 
 "Oh my god it's great!" He exclaimed out loud
 And went about his day feeling very very proud
-=======
 Spider-man, Spider-man, does whatever a spider can
 Spider-pig, Spider-pig, does whatever a spider-pig does
 
@@ -76,5 +93,9 @@ i have no idea how im doing this
 
 IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
 No it isn't, this is the final line
+<<<<<<< HEAD
 >>>>>>> 15a4b2974f0fa0ac27fbccd13392615dea0ef62b
 >>>>>>> 3417b09cfd18f4758a3ffea5d7763d1e6c03a4fd
+=======
+
+>>>>>>> 8721a5b789a6e9be46edab9a1a6dacbb130900b9
