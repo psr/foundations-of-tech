@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 
 HELLO
+=======
+Incy Wincy Spider climed up the water spout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the spout again
+creep mouse creep mouse
+up to the knee
+creep a little further
+wee wee wee wee wee
+HELLO
+>>>>>>> 80437d3c611894b485033d9e84079fd39244563d
