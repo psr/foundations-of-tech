@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider is not an insect at all
 Because it has eight legs and 2 body parts
 =======
@@ -126,3 +127,6 @@ THOMAS TEST
 Another test already??? we only had one this morning :O
 >>>>>>> a60638725369f0a672dd14fb40b0861385297879
 The incy wincy spider is overrated 
+=======
+IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
+>>>>>>> 2c2c66aa4cef38d0fb3d418da0d0dc385c35b5b8
