@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -19,6 +20,11 @@ Then Incy Wincy Spider climbed up the spout again
 =======
 =======
 >>>>>>> 80437d3c611894b485033d9e84079fd39244563d
+=======
+
+HELLO
+=======
+>>>>>>> 9f293d921cbbf5e6bf5b8d5d92ed82ffb32d51f0
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -27,6 +33,7 @@ creep mouse creep mouse
 up to the knee
 creep a little further
 wee wee wee wee wee
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 Incy Wincy Spider climbed up the water spout,
@@ -88,5 +95,7 @@ HELLO
 >>>>>>> a0fbcb8a97459228271eccfcb0b0ce08ef5460a0
 >>>>>>> 1d56312b09cc6b682b54fbf2d7747d7053316142
 =======
+=======
+>>>>>>> 9f293d921cbbf5e6bf5b8d5d92ed82ffb32d51f0
 HELLO
 >>>>>>> 80437d3c611894b485033d9e84079fd39244563d
