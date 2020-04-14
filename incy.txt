@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Incy Wincy Spider is not an insect at all
 Because it has eight legs and 2 body parts
 =======
@@ -30,3 +31,7 @@ Then Incy Wincy Spider bounced up the spout again
 >>>>>>> 12fd262f7a55816ffd5d162337b5bb15d5599f14
 =======
 >>>>>>> 09f6f966326da2ed29c3e0337dc05a141815ff3e
+=======
+
+HELLO 
+>>>>>>> 1d56312b09cc6b682b54fbf2d7747d7053316142
