@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
@@ -122,3 +123,6 @@ Another test already??? we only had one this morning :O
 
 
 i have no idea how im doing this
+=======
+IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
+>>>>>>> 2c2c66aa4cef38d0fb3d418da0d0dc385c35b5b8
