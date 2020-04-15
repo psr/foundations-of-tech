@@ -138,6 +138,20 @@ This is the final version. honestly.
 Good morning!
 No it isn't, this is the final line
 
+<<<<<<< HEAD
 This is not easy.
 
+=======
+<<<<<<< HEAD
 
+=======
+cArOl BaSkIn DiD iT
+<<<<<<< HEAD
+>>>>>>> e98f252b7d2f8add1a23f423c443430c92c06f12
+
+Incy wincy spider climbed up the tree 
+down came the tree and squashed the spider flat
+=======
+>>>>>>> a01266f9e804a0339c1bbd54bb47a4284227ba2e
+
+>>>>>>> ec4ff24bdc0e7c845a4c08f6101a8cafcbd5f6cd
