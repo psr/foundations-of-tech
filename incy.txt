@@ -29,10 +29,6 @@ Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 
-=======
-
-HELLO
-=======
 
 
 
@@ -91,12 +87,12 @@ Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
 Then Incy Wincy Spider bounced up the spout again
 
-=======
+
 
 HELLO 
 
 s is for spider s s spider
-=======
+
 
 
 Incy Wincy Spider climbed up the water spout,
@@ -117,7 +113,7 @@ IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
 
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
-=======
+
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 gfregrew
@@ -133,25 +129,18 @@ No it isn't, this is the final line
 
 
 I hope this works :)
-=======
+
 This is the final version. honestly.
 Good morning!
 No it isn't, this is the final line
 
-<<<<<<< HEAD
+
 This is not easy.
 
-=======
-<<<<<<< HEAD
 
-=======
+
+
 cArOl BaSkIn DiD iT
-<<<<<<< HEAD
->>>>>>> e98f252b7d2f8add1a23f423c443430c92c06f12
 
 Incy wincy spider climbed up the tree 
 down came the tree and squashed the spider flat
-=======
->>>>>>> a01266f9e804a0339c1bbd54bb47a4284227ba2e
-
->>>>>>> ec4ff24bdc0e7c845a4c08f6101a8cafcbd5f6cd
