@@ -12,8 +12,6 @@ And went about his day feeling very very proud
 Spider-man, Spider-man, does whatever a spider can
 Spider-pig, Spider-pig, does whatever a spider-pig does
 
-Incy Wincy Spider climed up the water spout
-
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -29,26 +27,13 @@ Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 
-=======
 
-HELLO
-=======
-
-
-
-HELLO
-
-Incy Wincy Spider climed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-=======
 Incy Wincy Spider climbed up the water sprout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the sprout again
 
-HELLO
+
 Incy Wincy Spider climed up the water sprout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -69,11 +54,6 @@ And Mr Spiders world was upturned
 When will it end?
 Hopefully round the next bend.
 
-HELLO 
-
-
-
-
 
 bah bah black sheep
 
@@ -91,12 +71,11 @@ Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
 Then Incy Wincy Spider bounced up the spout again
 
-=======
 
-HELLO 
+
 
 s is for spider s s spider
-=======
+
 
 
 Incy Wincy Spider climbed up the water spout,
@@ -105,7 +84,6 @@ Out came the sunshine and dried up all the rain,
 Then Incy Wincy Spider climbed up the spout again!
 
 
-stop saying HELLO i'm ignoring you ;)
 
 THOMAS TEST
 Another test already??? we only had one this morning :O
@@ -117,7 +95,7 @@ IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
 
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
-=======
+
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 gfregrew
@@ -133,20 +111,13 @@ No it isn't, this is the final line
 
 
 I hope this works :)
-=======
+
 This is the final version. honestly.
 Good morning!
 No it isn't, this is the final line
 
-<<<<<<< HEAD
 
-=======
-cArOl BaSkIn DiD iT
-<<<<<<< HEAD
->>>>>>> e98f252b7d2f8add1a23f423c443430c92c06f12
 
 Incy wincy spider climbed up the tree 
 down came the tree and squashed the spider flat
-=======
 
->>>>>>> ec4ff24bdc0e7c845a4c08f6101a8cafcbd5f6cd
