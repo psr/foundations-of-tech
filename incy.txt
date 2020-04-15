@@ -1,25 +1,6 @@
 
 Incy Wincy Spider is not an insect at all
 Because it has eight legs and 2 body parts
-=======
-
-=======
-Spiderman Spiderman does whatever a spider can
-spins a web any size, catches thieves just like flies
-Look out, here comes the Spiderman
-Is he strong listen bud, He's got radioactive blood
-Can he swing from a thread? Take a look overhead
-Hey,there! There goes the Spiderman
-Incy Wincy Spider climed up the water spout
-Down came the rain and washed the spider out
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-Incy Wincy Spider bounced up the water spout
-Down came the rain and spat the spider out
-Out came the sunshine and dried up all the rain
-Then Incy Wincy Spider bounced up the spout again
-HELLO 
-
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -43,9 +24,6 @@ as Mr Spider's thread went slack
 What is a spider to do?
 Honestly, I haven't a clue 
 
-=======
-
->>>>>>> 8721a5b789a6e9be46edab9a1a6dacbb130900b9
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
@@ -64,6 +42,18 @@ Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
+=======
+Incy Wincy Spider climbed up the water sprout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the sprout again
+
+HELLO
+Incy Wincy Spider climed up the water sprout
+Down came the rain and washed the spider out
+Out came the sun and dried up all the rain
+Then Incy Wincy Spider climbed up the sprout again
+>>>>>>> ec8487903c0960095a825172c429fae72759a1a2
 creep mouse creep mouse
 up to the knee
 creep a little further
@@ -96,12 +86,6 @@ Hey,there! There goes the Spiderman
 
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
-
-Out came the sun and dried up all the rain
-Then Incy Wincy Spider climbed up the spout again
-gfregrew
-
-=======
 Incy Wincy Spider bounced up the water spout
 Down came the rain and spat the spider out
 Out came the sunshine and dried up all the rain
@@ -133,6 +117,7 @@ IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
 
 Incy Wincy Spider climed up the water spout
 Down came the rain and washed the spider out
+=======
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 gfregrew
@@ -141,7 +126,19 @@ gfregrew
 i have no idea how im doing this
 
 IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
+<<<<<<< HEAD
 No it isn't, this is the final line
 
 
 I hope this works :)
+=======
+This is the final version. honestly.
+Good morning!
+No it isn't, this is the final line
+<<<<<<< HEAD
+>>>>>>> 15a4b2974f0fa0ac27fbccd13392615dea0ef62b
+
+cArOl BaSkIn DiD iT
+=======
+>>>>>>> 882ed5e08997a10c57aa272ee768ba50763566d2
+>>>>>>> ec8487903c0960095a825172c429fae72759a1a2
