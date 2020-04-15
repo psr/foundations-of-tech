@@ -53,7 +53,7 @@ Incy Wincy Spider climed up the water sprout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the sprout again
->>>>>>> ec8487903c0960095a825172c429fae72759a1a2
+
 creep mouse creep mouse
 up to the knee
 creep a little further
@@ -122,11 +122,13 @@ Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 gfregrew
 
+words
+
 
 i have no idea how im doing this
 
 IGNORE EVERYTHING ELSE. THIS IS THE FINAL VERSION.
-<<<<<<< HEAD
+
 No it isn't, this is the final line
 
 
@@ -135,10 +137,6 @@ I hope this works :)
 This is the final version. honestly.
 Good morning!
 No it isn't, this is the final line
-<<<<<<< HEAD
->>>>>>> 15a4b2974f0fa0ac27fbccd13392615dea0ef62b
 
 cArOl BaSkIn DiD iT
-=======
->>>>>>> 882ed5e08997a10c57aa272ee768ba50763566d2
->>>>>>> ec8487903c0960095a825172c429fae72759a1a2
+
